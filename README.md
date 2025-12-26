@@ -47,7 +47,7 @@ The spans and labels in the aggregated dataset.
 
 If you use this dataset, please cite us: 
 
-```json
+```
 @inproceedings{pachinger-etal-2025-disaggregated,
     title = "A Disaggregated Dataset on {E}nglish Offensiveness Containing Spans",
     author = "Pachinger, Pia  and
